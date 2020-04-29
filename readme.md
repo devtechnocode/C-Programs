@@ -1,1 +1,1 @@
-# This repo is for C++ program
+# This repo is for C and C++ program
