@@ -2,6 +2,6 @@
 
 int main()
 {
-printf("\nA sample C program\n\n");
+printf("\nA sample C program try it ;)\n\n");
 return 0;
 }
