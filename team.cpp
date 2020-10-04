@@ -4,7 +4,7 @@ int main()
 {
     int n ,petya ,vasya ,tonya;
     int counter=0;
-    cin >> n;
+    cin >>"enter value of n:">> n;
     for (int i=0 ; i<n; i++)
     {
         cin >> petya >> vasya >> tonya;
