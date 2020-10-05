@@ -1,4 +1,4 @@
-#include<stdio.h>
+
 int search(char str[],char sub[])
 {
 	int i=0,j=0,l;
