@@ -23,6 +23,6 @@ int main()
 	scanf("%[^\n]%*c",sub);
 	result=search(str,sub);
 	if(result!=-1) printf("Substring found at index %d",result);
-	else printf("Substring not found");
+	else printf("Substring is not there :( ");
 	return 0;
 }
